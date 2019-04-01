@@ -1,0 +1,50 @@
+html
+{
+    background-color: #EDF2C5;
+}
+
+.body
+{
+    width: 940px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_text
+{
+    font-family: 'Arial Black', sans-serif;
+    width: 271px;
+    height: 42px;
+    font-size: 44px;
+    margin-top: 53px;
+    margin-bottom: 8px;
+    margin-right: 468px;
+    color: #778A50;
+}
+
+.header_text_p
+{
+    width: 271px;
+    height: 42px;
+}
+
+.header_btn
+{
+    color: #778A50;
+    margin-top: auto;
+    margin-bottom: 17px;
+    vertical-align: bottom;
+}
+
+.header_btn_img
+{
+    vertical-align: bottom;
+    width: 25px;
+    height: 25px;
+}
